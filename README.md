@@ -16,3 +16,7 @@
 참고: http://www.junggu1365.or.kr/html/page?sub=sub02_06_03
 
 5. 정보 공유 게시판 제공
+
+# 0326
+피그마를 통한 디자인 설계 : https://www.figma.com/file/5utvKSJ7OBsQNwb5enyHG5/Eco?type=design&node-id=0-1&mode=design&t=dBePuh2O2g0Y4qZ6-0
+깃허브 및 개발 환경 구축
